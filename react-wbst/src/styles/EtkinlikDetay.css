@@ -1,0 +1,37 @@
+.etkinlikDetay {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.etkinlikDetay h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.etkinlikDetay p {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.etkinlikDetay img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.etkinlikDetay button {
+  background-color: #03A9D8;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.etkinlikDetay button:hover {
+  background-color: #03A9D8;
+}
